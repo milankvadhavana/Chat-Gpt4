@@ -35,7 +35,7 @@ def chat_api(request):
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": user_message}
             ],
-            "max_tokens": 150,
+            "max_tokens": 300,
             "temperature": 0.7
         }
 
