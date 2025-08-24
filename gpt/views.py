@@ -8,7 +8,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 
 AZUREAI_ENDPOINT = os.getenv("AZUREAI_ENDPOINT", "https://ai-milanvadhavana7434ai333247097360.openai.azure.com")
-AZUREAI_KEY = os.getenv("AZUREAI_KEY", "BO6QdZEEgrRNFeAAjcxkVlpwcnaxpw6XUDbHESXNrMELI3o4hDzjJQQJ99BDACHYHv6XJ3w3AAAAACOGUtQ7")  # Replace with your actual key
+AZUREAI_KEY = os.getenv("AZUREAI_KEY", "OWDH4EJzEJ84y1UU918XvZXNr7Xg28CE39gj7CHRdSU3y7cA2W2UJQQJ99BHACHYHv6XJ3w3AAAAACOGdHeK")  # Replace with your actual key
 DEPLOYMENT_NAME = "gpt-4"  # Replace with your actual deployment name
 
 @csrf_exempt  # Allow AJAX calls without CSRF issues
