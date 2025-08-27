@@ -1,1 +1,1 @@
-Azure Website- https://milankvadhavana.pythonanywhere.com/
+Demo Website- https://milankvadhavana.pythonanywhere.com/
